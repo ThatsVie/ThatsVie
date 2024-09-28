@@ -16,7 +16,7 @@ Here are some of the projects that represent my journey as a developer and creat
   🔗 **Website:** [whatdoyouknowaboutlove.com](https://www.whatdoyouknowaboutlove.com)  
   📸 **Instagram:** [@whatdoyouknowaboutlove](https://www.instagram.com/whatdoyouknowaboutlove)
 
-- **[Realms of Reality Portal](https://github.com/ThatsVie/RealmsOfRealityPortal)**  
+- **[Realms of Reality Portal](https://github.com/ThatsVie/Hacksprint)**  
   A personalized Chrome Extension designed to make daily browsing more dynamic and useful. This extension includes a weather widget, inspirational quotes, and curated links, all presented with a beautiful interface and customizable backgrounds. This project reflects my interest in creating tools that enhance productivity while adding a personal touch to technology.
   
 - **[Atlas AirBnB Clone](https://github.com/ThatsVie/atlas-AirBnB_clone_v4)**  
