@@ -73,4 +73,4 @@ Explore more of my work [here](https://github.com/ThatsVie?tab=repositories).
 
 ---
 
-Thanks for stopping by my profile! I’m always excited to collaborate, so feel free to reach out if you want to work on something meaningful together!
+**Thanks for stopping by my profile! I’m always excited to collaborate, so feel free to reach out if you want to work on something meaningful together!**
