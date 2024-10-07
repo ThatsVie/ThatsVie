@@ -2,7 +2,7 @@
 
 💻 **Software Engineer** 
 
-Hi, I’m Vie (/vi/). I’m passionate about building web experiences that are accessible, inclusive, and impactful. With a background as a licensed massage therapist, I bring a unique attention to detail and care to every project, focusing on creating user-centered designs that foster connection. Currently, I’m focused on expanding my expertise in backend development and database integration. I also leverage AI tools like ChatGPT to brainstorm ideas, streamline workflows, and create detailed README.md files with a focus on usage and testing. My goal is to create technology that not only functions smoothly but also leaves a positive, lasting impact.
+I’m passionate about building web experiences that are accessible, inclusive, and impactful. With a background as a licensed massage therapist, I bring a unique attention to detail and care to every project, focusing on creating user-centered designs that foster connection. Currently, I’m focused on expanding my expertise in backend development and database integration. I also leverage AI tools like ChatGPT to brainstorm ideas, streamline workflows, and create detailed README.md files with a focus on usage and testing. My goal is to create technology that not only functions smoothly but also leaves a positive, lasting impact.
 
 ---
 
