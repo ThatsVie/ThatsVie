@@ -1,9 +1,8 @@
 # Hey, I'm Vie! 👋
 
-💻 **Software Engineer** | 🐾 Future Pug Parent
+💻 **Software Engineer** 
 
-
-I’m passionate about crafting web experiences that are accessible, meaningful, and inclusive. My background as a licensed massage therapist adds a unique blend of care and focus into my work, ensuring that every project I build resonates deeply with its users. Whether I’m building interactive apps or custom designs, I bring creativity, attention to detail, and purpose into everything I do.
+Hi, I’m Vie (/vi/). I’m passionate about building web experiences that are accessible, inclusive, and impactful. With a background as a licensed massage therapist, I bring a unique attention to detail and care to every project, focusing on creating user-centered designs that foster connection. Currently, I’m focused on expanding my expertise in backend development and database integration. I also leverage AI tools like ChatGPT to brainstorm ideas, streamline workflows, and create detailed README.md files with a focus on usage and testing. My goal is to create technology that not only functions smoothly but also leaves a positive, lasting impact.
 
 ---
 
@@ -63,22 +62,12 @@ Explore more of my work [here](https://github.com/ThatsVie?tab=repositories).
 - **Tools & Platforms:**  
   Git, GitHub, VS Code, Google Apps Script, Firebase, DigitalOcean, Heroku, Vercel
 
-- **Currently Learning:**  
-  Backend Development and Database Integration
-
----
-
-## 🌱 Outside of coding
-
-When I’m not building web apps, I’m probably manifesting a pug into my life, playing the ukulele, or intuitively combining flavors and textures in the kitchen. I also care deeply for my elderly neighbors and value the wisdom of previous generations, believing in the importance of community and connection across all ages.
-
 ---
 
 ## 📫 Let’s connect!
 
 - **GitHub:** [@ThatsVie](https://github.com/ThatsVie)  
 - **Instagram:** [@whatdoyouknowaboutlove](https://www.instagram.com/whatdoyouknowaboutlove)  
-- **Portfolio (Coming soon):** [whatdoyouknowaboutlove.com/viepaula](https://www.whatdoyouknowaboutlove.com/viepaula)  
 - **Email:** thatsviepaula@gmail.com
 
 
