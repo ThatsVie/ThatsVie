@@ -1,4 +1,4 @@
-# Hey, I'm Vie! 👋
+# Hi, I'm Vie! 👋
 
 💻 **Software Engineer** 
 
