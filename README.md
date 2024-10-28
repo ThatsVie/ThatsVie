@@ -6,7 +6,7 @@ I’m passionate about building web experiences that are accessible, inclusive, 
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Featured Project
 
 Here are some of the projects that represent my journey as a developer and creator:
 
@@ -15,8 +15,6 @@ Here are some of the projects that represent my journey as a developer and creat
   🔗 **Website:** [whatdoyouknowaboutlove.com](https://www.whatdoyouknowaboutlove.com)  
   📸 **Instagram:** [@whatdoyouknowaboutlove](https://www.instagram.com/whatdoyouknowaboutlove)
 
-- **[Realms of Reality Portal](https://github.com/ThatsVie/Hacksprint)**  
-  A personalized Chrome Extension designed to make daily browsing more dynamic and useful. This extension includes a weather widget, inspirational quotes, and curated links, all presented with a beautiful interface and customizable backgrounds. This project reflects my interest in creating tools that enhance productivity while adding a personal touch to technology.
   
 - **[Atlas AirBnB Clone](https://github.com/ThatsVie/atlas-AirBnB_clone_v4)**  
   A full-stack clone of the popular platform AirBnB. This project is a deep dive into creating scalable web applications, focusing on both the frontend and backend. Built over four phases, it features key functionalities such as user authentication, property listings, booking systems, and database management. Each phase of development introduced new layers of complexity, allowing me to refine my skills in team collaboration and web architecture.
