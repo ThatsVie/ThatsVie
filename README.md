@@ -6,7 +6,7 @@ I’m passionate about building web experiences that are accessible, inclusive, 
 
 ---
 
-## 🌟 Featured Project
+## 🌟 Featured Projects
 
 Here are some of the projects that represent my journey as a developer and creator:
 
@@ -15,7 +15,10 @@ Here are some of the projects that represent my journey as a developer and creat
   🔗 **Website:** [whatdoyouknowaboutlove.com](https://www.whatdoyouknowaboutlove.com)  
   📸 **Instagram:** [@whatdoyouknowaboutlove](https://www.instagram.com/whatdoyouknowaboutlove)
 
-  
+- **[Pug Smile School](https://github.com/ThatsVie/atlas-smiling-school)**  
+  A playful and responsive website featuring pug-themed content designed with Bootstrap. Pug Smile School brings together accessibility and engaging design to create a unique experience for pug lovers.  
+  🔗 **Website:** [Pug Smile School](https://thatsvie.github.io/atlas-smiling-school)
+
 - **[Atlas AirBnB Clone](https://github.com/ThatsVie/atlas-AirBnB_clone_v4)**  
   A full-stack clone of the popular platform AirBnB. This project is a deep dive into creating scalable web applications, focusing on both the frontend and backend. Built over four phases, it features key functionalities such as user authentication, property listings, booking systems, and database management. Each phase of development introduced new layers of complexity, allowing me to refine my skills in team collaboration and web architecture.
 
