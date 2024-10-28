@@ -36,19 +36,22 @@ Explore more of my work [here](https://github.com/ThatsVie?tab=repositories).
 ## 🎨 What I bring to the table:
 
 - **Full-stack development:**  
-  From frontend to backend, I build everything with accessibility and usability in mind. Proficient in HTML, CSS, JavaScript, and Python, I ensure each project is functional, responsive, and user-friendly.
+  From frontend to backend, I build everything with accessibility, usability, and scalability in mind. Proficient in HTML, CSS, JavaScript, Python, and Node.js, I ensure each project is functional, responsive, and user-friendly. Recent projects have deepened my experience with backend frameworks, RESTful and GraphQL APIs, and database integration.
 
 - **Creative design:**  
-  I generate custom illustrations and images to give projects a unique look, using tools like DALL-E to create visuals that resonate with users.
+  I create custom illustrations and images to give projects a unique look, using tools like DALL-E to generate visuals that resonate with users. I prioritize cohesive, visually appealing designs that enhance the user experience.
 
-- **Automated workflows:**  
-  By leveraging tools like Google Apps Script, I automate processes, making projects efficient and reducing manual labor.
+- **Automated workflows and process optimization:**  
+  By leveraging tools like Google Apps Script, GitHub Actions, and custom scripts, I streamline workflows, making projects efficient and reducing manual labor. This includes automating data processing and task management in full-stack applications.
 
 - **Purpose-driven development:**  
-  Every project I work on has a clear intention, whether it’s showcasing the diversity of love or creating tools that enhance productivity. I believe in using technology to make a meaningful impact.
+  Each project I work on has a clear purpose, from building platforms that celebrate diversity to developing productivity tools. I’m committed to using technology to make a meaningful impact, prioritizing accessibility and inclusivity in all aspects of development.
+
+- **Backend expertise and scalable architecture:**  
+  I’ve gained extensive experience with backend technologies, including Express.js, MongoDB, Redis, and queuing systems, as well as designing and implementing RESTful and GraphQL APIs. I focus on building secure, robust, and scalable architectures that handle real-world demands.
 
 - **Passion for tutorials and detailed documentation:**  
-  I take pride in creating detailed README.md files for every project, complete with usage instructions and tutorials, making it easier for others to learn and build upon my work.
+  I take pride in creating comprehensive README.md files and documentation for every project, complete with setup guides, usage instructions, and tutorials. This focus on documentation makes it easier for others to learn from and build upon my work.
 
 ---
 
@@ -57,11 +60,18 @@ Explore more of my work [here](https://github.com/ThatsVie?tab=repositories).
 - **Languages:**  
   Python, JavaScript, HTML5, CSS3
 
-- **Frameworks:**  
-  Flask, Bootstrap, jQuery
+- **Frameworks & Libraries:**  
+  Flask, Express.js, Bootstrap, jQuery, Mocha, Chai
+
+- **Databases & Storage:**  
+  MongoDB, Redis, Google Sheets (for data storage in smaller projects)
 
 - **Tools & Platforms:**  
-  Git, GitHub, VS Code, Google Apps Script, Firebase, DigitalOcean, Heroku, Vercel
+  Git, GitHub, VS Code, Google Apps Script, Firebase, DigitalOcean, Heroku, Vercel, MongoDB Atlas
+
+- **Testing & Automation:**  
+  Mocha, Chai, Sinon (for unit and integration testing), GitHub Actions (for CI/CD automation)
+
 
 ---
 
