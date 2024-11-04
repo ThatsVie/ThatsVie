@@ -47,9 +47,6 @@ Explore more of my work [here](https://github.com/ThatsVie?tab=repositories).
 - **Purpose-driven development:**  
   Each project I work on has a clear purpose, from building platforms that celebrate diversity to developing productivity tools. I’m committed to using technology to make a meaningful impact, prioritizing accessibility and inclusivity in all aspects of development.
 
-- **Backend expertise and scalable architecture:**  
-  I’ve gained extensive experience with backend technologies, including Express.js, MongoDB, Redis, and queuing systems, as well as designing and implementing RESTful and GraphQL APIs. I focus on building secure, robust, and scalable architectures that handle real-world demands.
-
 - **Passion for tutorials and detailed documentation:**  
   I take pride in creating comprehensive README.md files and documentation for every project, complete with setup guides, usage instructions, and tutorials. This focus on documentation makes it easier for others to learn from and build upon my work.
 
