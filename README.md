@@ -1,83 +1,70 @@
-# Hi, I'm Vie! 👋
+# Hi, I'm Vie! 👋  
 
-💻 **Software Engineer** 
+💻 **Full Stack Software Engineer**  
 
-I’m passionate about building web experiences that are accessible, inclusive, and impactful. With a background as a licensed massage therapist, I bring a unique attention to detail and care to every project, focusing on creating user-centered designs that foster connection. Currently, I’m focused on expanding my expertise in backend development and database integration. My goal is to create technology that not only functions smoothly but also leaves a positive, lasting impact.
+I’m passionate about creating web experiences that are accessible, inclusive, and impactful. With a background as a licensed massage therapist, I bring a unique attention to detail, empathy, and user-centered focus to every project. My expertise spans full-stack development, database integration, and responsive design, with a strong commitment to building technology that fosters connection and delivers meaningful results.  
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Featured Projects  
 
-Here are some of the projects that represent my journey as a developer and creator:
+Here are some projects that showcase my journey as a developer:  
+
+- **[What Do You Know About COVID-19?](https://github.com/ThatsVie/What-do-you-know-about-COVID-19)**  
+  A knowledge-sharing platform for curated COVID-19 articles, featuring advanced search, filters, and pagination. Built with React, Node.js, and MongoDB, this project focuses on creating a responsive, accessible experience for mobile and desktop users.  
+  🔗 **Website:** [What Do You Know About COVID-19?](https://www.whatdoyouknowaboutcovid19.com/)  
+
+- **[Joy of Painting API and SPA](https://github.com/ThatsVie/atlas-the-joy-of-painting-api)**  
+  A full-stack application that centralizes and filters data about *The Joy of Painting* episodes. This project includes an efficient ETL pipeline, dynamic filters, and a cohesive, responsive user interface, demonstrating expertise in backend data handling and frontend design.  
+  🔗 **Website:** [Joy of Painting API and SPA](https://atlas-the-joy-of-painting-api-whkc.vercel.app/)  
 
 - **[What Do You Know About Love?](https://github.com/ThatsVie/What-do-you-know-about-love)**  
-  Explore the many facets of love with this interactive website that gathers and displays responses to questions about love. Users are invited to share their experiences, thoughts, and feelings, which are then transformed into visually engaging response cards. The project emphasizes the diversity of love, showcasing the voices and perspectives of people from all walks of life.  
-  🔗 **Website:** [whatdoyouknowaboutlove.com](https://www.whatdoyouknowaboutlove.com)  
-  📸 **Instagram:** [@whatdoyouknowaboutlove](https://www.instagram.com/whatdoyouknowaboutlove)
-
-- **[Pug Smile School](https://github.com/ThatsVie/atlas-smiling-school)**  
-  A playful and responsive website featuring pug-themed content designed with Bootstrap. Pug Smile School brings together accessibility and engaging design to create a unique experience for pug lovers.  
-  🔗 **Website:** [Pug Smile School](https://thatsvie.github.io/atlas-smiling-school)
-
-- **[Atlas AirBnB Clone](https://github.com/ThatsVie/atlas-AirBnB_clone_v4)**  
-  A full-stack clone of the popular platform AirBnB. This project is a deep dive into creating scalable web applications, focusing on both the frontend and backend. Built over four phases, it features key functionalities such as user authentication, property listings, booking systems, and database management. Each phase of development introduced new layers of complexity, allowing me to refine my skills in team collaboration and web architecture.
-
-  Versions of the project:
-  - [AirBnB Clone - Version 1](https://github.com/ThatsVie/atlas-AirBnB_clone)
-  - [AirBnB Clone - Version 2](https://github.com/ThatsVie/atlas-AirBnB_clone_v2)
-  - [AirBnB Clone - Version 3](https://github.com/ThatsVie/atlas-AirBnB_clone_v3)
-  - [AirBnB Clone - Version 4](https://github.com/ThatsVie/atlas-AirBnB_clone_v4)
+  A platform celebrating diverse stories of love through user-submitted responses enhanced with AI-generated visuals. Features include search functionality and question-based filtering for an engaging, intuitive user experience.  
+  🔗 **Website:** [What Do You Know About Love?](https://www.whatdoyouknowaboutlove.com)  
 
 
-Explore more of my work [here](https://github.com/ThatsVie?tab=repositories).
+Explore more of my work [here](https://github.com/ThatsVie?tab=repositories).  
 
 ---
 
-## 🎨 What I bring to the table:
+## 🎨 What I Bring to the Table  
 
-- **Full-stack development:**  
-  From frontend to backend, I build everything with accessibility, usability, and scalability in mind. Proficient in HTML, CSS, JavaScript, Python, and Node.js, I ensure each project is functional, responsive, and user-friendly. Recent projects have deepened my experience with backend frameworks, RESTful and GraphQL APIs, and database integration.
+- **Full-Stack Expertise:**  
+  Skilled in frontend and backend development, I build accessible, user-friendly applications with technologies like React, Flask, Node.js, and MongoDB. I ensure functionality and scalability while focusing on user-centered design.  
 
-- **Creative design:**  
-  I create custom illustrations and images to give projects a unique look, using tools like DALL-E to generate visuals that resonate with users. I prioritize cohesive, visually appealing designs that enhance the user experience.
+- **Interpersonal and Team Collaboration:**  
+  With a strong background in collaboration, I thrive in agile environments, fostering positive team dynamics and delivering results under tight deadlines.  
 
-- **Automated workflows and process optimization:**  
-  By leveraging tools like Google Apps Script, GitHub Actions, and custom scripts, I streamline workflows, making projects efficient and reducing manual labor. This includes automating data processing and task management in full-stack applications.
+- **Database Integration and Optimization:**  
+  Experienced in designing schemas, building APIs, and optimizing data handling using MongoDB, MySQL, and PostgreSQL.  
 
-- **Purpose-driven development:**  
-  Each project I work on has a clear purpose, from building platforms that celebrate diversity to developing productivity tools. I’m committed to using technology to make a meaningful impact, prioritizing accessibility and inclusivity in all aspects of development.
+- **Accessible and Inclusive Design:**  
+  Dedicated to creating web applications that meet accessibility standards (WCAG) and provide seamless experiences for diverse users.  
 
-- **Passion for tutorials and detailed documentation:**  
-  I take pride in creating comprehensive README.md files and documentation for every project, complete with setup guides, usage instructions, and tutorials. This focus on documentation makes it easier for others to learn from and build upon my work.
+- **Purpose-Driven Development:**  
+  My projects focus on meaningful impact, whether celebrating diverse stories, streamlining workflows, or providing educational resources.  
+
+- **Comprehensive Documentation:**  
+  I take pride in crafting detailed README.md files and tutorials, ensuring projects are easy to use, understand, and extend.  
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Tech Stack  
 
-- **Languages:**  
-  Python, JavaScript, HTML5, CSS3
+- **Frontend:**  
+  JavaScript, React, HTML, CSS, Bootstrap, jQuery  
 
-- **Frameworks & Libraries:**  
-  Flask, Express.js, Bootstrap, jQuery, Mocha, Chai
+- **Backend:**  
+  Python, Flask, Node.js, Express, SQL, RESTful APIs, GraphQL, Redis  
 
-- **Databases & Storage:**  
-  MongoDB, Redis, Google Sheets (for data storage in smaller projects)
+- **Databases:**  
+  MongoDB, MySQL, PostgreSQL  
 
 - **Tools & Platforms:**  
-  Git, GitHub, VS Code, Google Apps Script, Firebase, DigitalOcean, Heroku, Vercel, MongoDB Atlas
+  Git, GitHub, Visual Studio Code, Vercel, Docker, Figma, Anima Plugin  
 
 - **Testing & Automation:**  
-  Mocha, Chai, Sinon (for unit and integration testing), GitHub Actions (for CI/CD automation)
-
-
----
-
-## 📫 Let’s connect!
-
-- **GitHub:** [@ThatsVie](https://github.com/ThatsVie)  
-- **Instagram:** [@whatdoyouknowaboutlove](https://www.instagram.com/whatdoyouknowaboutlove)  
-- **Email:** thatsviepaula@gmail.com
-
+  Mocha, Chai, Sinon, GitHub Actions  
 
 ---
 
