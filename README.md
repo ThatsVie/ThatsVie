@@ -50,18 +50,14 @@ Explore more of my work [here](https://github.com/ThatsVie?tab=repositories).
 
 ## 🚀 Tech Stack  
 
-- **Frontend:**  
-  JavaScript, React, HTML, CSS, Bootstrap, jQuery  
+- **Languages:**  
+  JavaScript, Python, SQL, HTML, CSS
 
-- **Backend:**  
-  Python, Flask, Node.js, Express, SQL, RESTful APIs, GraphQL, Redis  
+- **Frameworks/Libraries:**  
+  React, Flask, Express, Bootstrap 
 
 - **Databases:**  
   MongoDB, MySQL, PostgreSQL  
 
 - **Tools & Platforms:**  
-  Git, GitHub, Visual Studio Code, Vercel, Docker, Figma, Anima Plugin  
-
-- **Testing & Automation:**  
-  Mocha, Chai, Sinon, GitHub Actions  
-
+  Git, GitHub, Visual Studio Code, Vercel, Docker, Figma
