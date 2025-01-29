@@ -45,13 +45,13 @@ Here are some projects that showcase my journey as a developer:
 ## 🚀 Tech Stack  
 
 - **Languages:**  
-  JavaScript, Python, SQL, HTML, CSS
+  JavaScript, TypeScript, Python, SQL, HTML, CSS
 
 - **Frameworks/Libraries:**  
-  React, Flask, Express, Bootstrap 
+  React, Flask, Express, Tailwind CSS, Bootstrap, Vitest, Mocha, Chai, Sinon
 
 - **Databases:**  
   MongoDB, MySQL, PostgreSQL  
 
 - **Tools & Platforms:**  
-  Git, GitHub, Visual Studio Code, Vercel, Docker, Figma
+  Git, GitHub, Visual Studio Code, Vercel, Netlify, Docker, Figma, Blender
