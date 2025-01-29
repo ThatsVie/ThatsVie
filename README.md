@@ -18,12 +18,6 @@ Here are some projects that showcase my journey as a developer:
   A platform celebrating diverse stories of love through user-submitted responses enhanced with AI-generated visuals. Features include search functionality and question-based filtering for an engaging, intuitive user experience.  
   🔗 **Website:** [What Do You Know About Love?](https://www.whatdoyouknowaboutlove.com)  
 
-- **[Joy of Painting API and SPA](https://github.com/ThatsVie/atlas-the-joy-of-painting-api)**  
-  A full-stack application that centralizes and filters data about *The Joy of Painting* episodes. This project includes an efficient ETL pipeline, dynamic filters, and a cohesive, responsive user interface, demonstrating expertise in backend data handling and frontend design.  
-  🔗 **Website:** [Joy of Painting API and SPA](https://atlas-the-joy-of-painting-api-whkc.vercel.app/)  
-
-Explore more of my work [here](https://github.com/ThatsVie?tab=repositories).  
-
 ---
 
 ## 🎨 What I Bring to the Table  
