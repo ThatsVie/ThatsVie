@@ -1,5 +1,4 @@
 
-
 # Hi, I'm Vie!  
 
 💻 **Full Stack Software Engineer**  
@@ -59,3 +58,7 @@ Here are some projects that showcase my journey as a developer:
   Git, GitHub, Visual Studio Code, Vercel, Netlify, Docker, Figma, Blender  
 
 ---
+
+With love, 
+<br>
+**[Vie P.](https://whatdoyouknowaboutlove.com/viepaula/)**
