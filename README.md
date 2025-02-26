@@ -55,7 +55,7 @@ Here are some projects that showcase my journey as a developer:
   MongoDB, MySQL, PostgreSQL  
 
 - **Tools & Platforms:**  
-  Git, GitHub, Visual Studio Code, Vercel, Netlify, Docker, Figma, Blender  
+  Git, GitHub, Visual Studio Code, Vercel, Netlify, Docker, Figma
 
 ---
 
