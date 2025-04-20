@@ -61,4 +61,4 @@ Here are some projects that showcase my journey as a developer:
 
 With love, 
 <br>
-**[Vie P.](https://whatdoyouknowaboutlove.com/viepaula/)**
+**[Vie P.](https://whatdoyouknowaboutlove.com/viep/)**
