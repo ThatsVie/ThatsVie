@@ -3,7 +3,7 @@
 
 💻 **Full Stack Software Engineer**  
 
-I’m passionate about creating web experiences that are **accessible, inclusive, and impactful**. With a background as a licensed massage therapist, I bring a unique attention to detail, empathy, and user-centered focus to every project. My expertise spans **full-stack development, database integration, and responsive design**, with a strong commitment to building technology that fosters connection and delivers meaningful results.  
+I’m passionate about creating web experiences that are **accessible, inclusive, and impactful**. With a background in healthcare, I bring a unique attention to detail, empathy, and user-centered focus to every project. My expertise spans **full-stack development, database integration, and responsive design**, with a strong commitment to building technology that fosters connection and delivers meaningful results.  
 
 ---
 
