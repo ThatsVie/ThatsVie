@@ -1,13 +1,13 @@
 
 # Hi, I'm Vie!  
 
-💻 **Full Stack Software Engineer**  
+**Full Stack Software Engineer**  
 
 I’m passionate about creating web experiences that are **accessible, inclusive, and impactful**. With a background in healthcare, I bring a unique attention to detail, empathy, and user-centered focus to every project. My expertise spans **full-stack development, database integration, and responsive design**, with a strong commitment to building technology that fosters connection and delivers meaningful results.  
 
 ---
 
-## 🌟 Featured Projects  
+## Featured Projects  
 
 Here are some projects that showcase my journey as a developer:  
 
@@ -21,7 +21,7 @@ Here are some projects that showcase my journey as a developer:
 
 ---
 
-## 🎨 What I Bring to the Table  
+## What I Bring to the Table  
 
 - **Full-Stack Expertise:**  
   I build scalable, user-friendly applications with **React, React Native, Flask, Node.js, and MongoDB**, ensuring seamless functionality across web and mobile platforms.  
@@ -43,7 +43,7 @@ Here are some projects that showcase my journey as a developer:
 
 ---
 
-## 🚀 Tech Stack  
+## Tech Stack  
 
 - **Languages:**  
   JavaScript, TypeScript, Python, SQL, HTML, CSS  
